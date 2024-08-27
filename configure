@@ -1,0 +1,5 @@
+--enable-x86-asm
+--enable-core
+--enable-vsscript
+--enable-vspipe
+--enable-python-module
