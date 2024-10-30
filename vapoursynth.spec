@@ -7,7 +7,7 @@
 #
 Name     : vapoursynth
 Version  : 70.11
-Release  : 2
+Release  : 3
 URL      : https://github.com/vapoursynth/vapoursynth/archive/R70.11/vapoursynth-70.11.tar.gz
 Source0  : https://github.com/vapoursynth/vapoursynth/archive/R70.11/vapoursynth-70.11.tar.gz
 Summary  : A frameserver for the 21st century
