@@ -1,5 +1,5 @@
 PKG_NAME := vapoursynth
-URL = https://github.com/vapoursynth/vapoursynth/archive/R70.11/vapoursynth-70.11.tar.gz
+URL = https://github.com/vapoursynth/vapoursynth/archive/R71/vapoursynth-71.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
